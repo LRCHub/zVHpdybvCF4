@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ファンファーレがきこえる (Album Mix)",
+  "base_artist": "Base Ball Bear",
+  "createdAt": "2025-12-17T15:49:52.074315Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ファンファーレがきこえる",
+      "artist": "BaseBallBear",
+      "has_synced": false,
+      "path": "select/pl_01_ファンファーレがきこえる_BaseBallBear.txt"
+    }
+  ]
+}
